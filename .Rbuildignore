@@ -1,0 +1,8 @@
+^package\.Rproj$
+^\.Rproj\.user$
+^LICENSE\.md$
+^experiments$
+^[A-Za-z0-9_]*\.rds$
+^[A-Za-z0-9_]*\.pdf$
+^[A-Za-z0-9_]*\.png$
+^[A-Za-z0-9_]*\.csv$
